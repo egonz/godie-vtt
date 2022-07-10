@@ -1,2 +1,2 @@
 # godie-vtt
- Godice Tabletop Simulator Bridge
+ [Godice](https://getgocube.com/godice/) Tabletop Simulator Bridge
